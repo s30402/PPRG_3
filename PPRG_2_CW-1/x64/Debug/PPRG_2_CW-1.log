@@ -1,0 +1,3 @@
+﻿  PPRG_2_CW-1.cpp
+C:\Users\s30402\Desktop\Temp\PPRG_2_CW-1\PPRG_2_CW-1.cpp(74,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  PPRG_2_CW-1.vcxproj -> C:\Users\s30402\Desktop\Temp\PPRG_2_CW-1\x64\Debug\PPRG_2_CW-1.exe
