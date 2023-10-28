@@ -8,7 +8,6 @@ int main()
 	string Password = "s30402!";
 	string guess;
 	bool answer = false;
-	cout << answer;
 
 	while (!answer) {
 		cout << "Zgadnij haslo!" << endl;
